@@ -1,4 +1,4 @@
-iimport os, shutil
+import os, shutil
 # replace my path with yours.
 download_path = 'c:/users/harsh/downloads'
 image_path = 'c:/users/harsh/downloads/images'
